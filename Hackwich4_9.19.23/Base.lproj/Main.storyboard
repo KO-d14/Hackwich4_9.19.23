@@ -44,7 +44,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="About " textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JxQ-wd-C57">
-                                <rect key="frame" x="111" y="100" width="193" height="83"/>
+                                <rect key="frame" x="108" y="88" width="198" height="83"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="0.54684900390000002" blue="0.94872308350000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <color key="tintColor" red="1" green="0.4667847014" blue="0.9644473268" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -60,7 +60,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wKO-Mi-sEh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="858" y="-234"/>
+            <point key="canvasLocation" x="857.97101449275374" y="-234.375"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="3mQ-ca-8xC">
