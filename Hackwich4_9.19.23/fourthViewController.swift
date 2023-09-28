@@ -5,8 +5,7 @@
 //  Created by Aina Kodaira on 9/28/23.
 //
 
-//NOTE: GUIDELINE DIDN'T SAY SPECIFICALLY TO CREATE BUT DID ANYWAY JUST IN CASE, ESPECIALLY BC WE'RE TO CREATE AN IBACTION
-
+//NOTE: GUIDELINE DIDN'T SAY SPECIFICALLY TO CREATE BUT DID ANYWAY JUST IN CASE,ESPECIALLY BC WE'RE TO CREATE AN IBACTION
 import UIKit
 
 class fourthViewController: UIViewController {
@@ -38,3 +37,10 @@ class fourthViewController: UIViewController {
     }
     
 }
+//*************************************
+/*
+ PLEASE READ!!!!
+ 
+ NOTE:
+ I have been having connection issues as of late where I am having trouble committing & pushing bc when I try to commit & push again, the changes made disappear so I am unsure if I am able to show work of my progress */
+//************************************
