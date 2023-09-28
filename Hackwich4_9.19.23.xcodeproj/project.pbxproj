@@ -18,6 +18,8 @@
 		631995982ABA60660016A259 /* Hackwich4_9_19_23UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631995972ABA60660016A259 /* Hackwich4_9_19_23UITestsLaunchTests.swift */; };
 		631995A52ABA65D50016A259 /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631995A42ABA65D50016A259 /* firstViewController.swift */; };
 		631995A72ABA681D0016A259 /* second ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631995A62ABA681D0016A259 /* second ViewController.swift */; };
+		63AD2D0B2AC4ED0D00A32F7A /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AD2D0A2AC4ED0D00A32F7A /* thirdViewController.swift */; };
+		63AD2D0D2AC4EDA000A32F7A /* fourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AD2D0C2AC4EDA000A32F7A /* fourthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		631995972ABA60660016A259 /* Hackwich4_9_19_23UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich4_9_19_23UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		631995A42ABA65D50016A259 /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
 		631995A62ABA681D0016A259 /* second ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "second ViewController.swift"; sourceTree = "<group>"; };
+		63AD2D0A2AC4ED0D00A32F7A /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
+		63AD2D0C2AC4EDA000A32F7A /* fourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fourthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				631995762ABA60630016A259 /* SceneDelegate.swift */,
 				631995782ABA60630016A259 /* ViewController.swift */,
 				6319957A2ABA60630016A259 /* Main.storyboard */,
+				63AD2D0C2AC4EDA000A32F7A /* fourthViewController.swift */,
+				63AD2D0A2AC4ED0D00A32F7A /* thirdViewController.swift */,
 				631995A62ABA681D0016A259 /* second ViewController.swift */,
 				631995A42ABA65D50016A259 /* firstViewController.swift */,
 				6319957D2ABA60650016A259 /* Assets.xcassets */,
@@ -266,6 +272,8 @@
 			files = (
 				631995792ABA60630016A259 /* ViewController.swift in Sources */,
 				631995752ABA60630016A259 /* AppDelegate.swift in Sources */,
+				63AD2D0D2AC4EDA000A32F7A /* fourthViewController.swift in Sources */,
+				63AD2D0B2AC4ED0D00A32F7A /* thirdViewController.swift in Sources */,
 				631995772ABA60630016A259 /* SceneDelegate.swift in Sources */,
 				631995A52ABA65D50016A259 /* firstViewController.swift in Sources */,
 				631995A72ABA681D0016A259 /* second ViewController.swift in Sources */,
